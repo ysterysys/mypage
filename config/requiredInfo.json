@@ -1,12 +1,13 @@
 {
   "siteTitle": "my Page",
-  "siteDescription": "My awesome personal site, i'm a Corgi!",
+  "siteDescription": "Hi there!",
   "avatar": "/img/avatar.jpg",
   "background": "/img/background.jpg",
-  "description": "Hey I'm a Corgi. Thanks for visiting my personal site!",
+  "description": "Hey ! Thanks for visiting my personal site!",
   "resumeFile": "https://dl.dropboxusercontent.com/u/3848960/corgi.pdf",
   "icons": [
-    {"icon": " social-facebook", "link": "https://www.facebook.com/yster.ysys.1"}
+    {" social-facebook","link": "/facebook"},
+	 {"icon": "social-github", "link": "/github"}
   ],
   "projects": [
     {"title":"Dogecoin Ticker", "link":"/dogecointicker"},
