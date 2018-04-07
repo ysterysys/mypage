@@ -6,11 +6,7 @@
   "description": "Hey ! Thanks for visiting my personal site!",
   "resumeFile": "https://dl.dropboxusercontent.com/u/3848960/corgi.pdf",
   "icons": [
-    {"icon": "social-facebook", "link": "/facebook"},
-    {"icon": "social-github", "link": "/github"},
-    {"icon": "social-twitter", "link": "/twitter"},
-    {"icon": "paw", "link": "/corgi"},
-    {"icon": "social-reddit", "link": "https://www.reddit.com/r/corgi"}
+    {"icon": "social-facebook", "link": "/facebook"}
   ],
   "projects": [
     {"title":"Dogecoin Ticker", "link":"/dogecointicker"},

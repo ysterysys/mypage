@@ -7,7 +7,9 @@
     font-weight:normal;
     font-style:normal;
 }
-
+p{
+	color: red;
+}
 html,body {
     height: 100%;
 }
